@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="13B76238-7C0A-49D1-90FF-3AEC8B52EE05" ModuleId="CodeGolf.Set.Tests" />
+  <Module PersistentId="E2EE88E3-0447-4703-B405-8D2491AE78A1" ModuleId="CodeGolf.Set.Core" />
+</Modules>
